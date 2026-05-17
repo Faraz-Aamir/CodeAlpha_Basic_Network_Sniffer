@@ -156,7 +156,7 @@ Unauthorized packet sniffing is illegal and unethical.
 
 ## 👤 Author
 
-**Faraz Aamir** — 
+**Faraz Aamir**  
 
 ---
 
