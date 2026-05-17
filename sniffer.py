@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║           CodeAlpha - Basic Network Sniffer                  ║
+║           Basic Network Sniffer                  ║
 ║           Cyber Security Internship - Task 1                 ║
 ║           Author: Faraz Aamir                                ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -256,7 +256,6 @@ def print_banner():
     ║   ░▀▀▀░▀░▀░▀▀▀░▀░░░▀░░░▀▀▀░▀░▀                    ║
     ║                                                      ║
     ║   🔍 Basic Network Sniffer v1.0                      ║
-    ║   📡 CodeAlpha Cyber Security Internship             ║
     ║   👤 Author: Faraz Aamir                             ║
     ║                                                      ║
     ╚══════════════════════════════════════════════════════╝
@@ -270,7 +269,7 @@ def print_banner():
 def main():
     """Main function to run the network sniffer."""
     parser = argparse.ArgumentParser(
-        description="CodeAlpha Network Sniffer - Capture and analyze network packets",
+        description="Network Sniffer - Capture and analyze network packets",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
