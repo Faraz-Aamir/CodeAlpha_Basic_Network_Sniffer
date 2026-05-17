@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║           Basic Network Sniffer                  ║
-║           Cyber Security Internship - Task 1                 ║
+║           Basic Network Sniffer                              ║
+║           Cyber Security Task                                ║
 ║           Author: Faraz Aamir                                ║
 ╚══════════════════════════════════════════════════════════════╝
 
