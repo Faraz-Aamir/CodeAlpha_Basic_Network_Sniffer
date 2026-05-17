@@ -1,6 +1,5 @@
 # 🔍 Basic Network Sniffer
 
-### CodeAlpha Cyber Security Internship — Task 1
 
 A Python-based network packet sniffer that captures and analyzes network traffic in real-time. Built using the **Scapy** library, this tool provides detailed insights into network packets flowing through your system.
 
@@ -147,7 +146,7 @@ After stopping the capture (Ctrl+C), a summary is displayed:
 
 ## 🔒 Ethical Disclaimer
 
-This tool is built for **educational purposes** as part of the CodeAlpha Cyber Security Internship. Network sniffing should only be performed on:
+This tool is built for **educational purposes**. Network sniffing should only be performed on:
 - Networks you own
 - Networks you have explicit permission to monitor
 
@@ -157,11 +156,11 @@ Unauthorized packet sniffing is illegal and unethical.
 
 ## 👤 Author
 
-**Faraz Aamir** — CodeAlpha Cyber Security Intern
+**Faraz Aamir** — 
 
 ---
 
 ## 📄 License
 
-This project is for educational purposes under the CodeAlpha internship program.
-# CodeAlpha_Basic_Network_Sniffer
+This project is for educational purposes.
+# Basic_Network_Sniffer
